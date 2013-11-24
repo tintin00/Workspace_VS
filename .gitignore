@@ -87,6 +87,12 @@ ipch/
 *.cachefile
 
 # Visual Studio profiler
+*.dll
+*.pdb
+*.sol
+
+
+# Visual Studio profiler
 *.psess
 *.vsp
 *.vspx
