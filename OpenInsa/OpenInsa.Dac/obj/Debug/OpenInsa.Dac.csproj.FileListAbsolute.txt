@@ -1,0 +1,16 @@
+D:\Workspace_VS\OpenInsa\OpenInsa.Dac\bin\Debug\OpenInsa.Dac.dll
+D:\Workspace_VS\OpenInsa\OpenInsa.Dac\bin\Debug\OpenInsa.Dac.pdb
+D:\Workspace_VS\OpenInsa\OpenInsa.Dac\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Workspace_VS\OpenInsa\OpenInsa.Dac\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Workspace_VS\OpenInsa\OpenInsa.Dac\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Workspace_VS\OpenInsa\OpenInsa.Dac\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Workspace_VS\OpenInsa\OpenInsa.Dac\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Workspace_VS\OpenInsa\OpenInsa.Dac\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+D:\Workspace_VS\OpenInsa\OpenInsa.Dac\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.pdb
+D:\Workspace_VS\OpenInsa\OpenInsa.Dac\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+D:\Workspace_VS\OpenInsa\OpenInsa.Dac\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Workspace_VS\OpenInsa\OpenInsa.Dac\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Workspace_VS\OpenInsa\OpenInsa.Dac\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\Workspace_VS\OpenInsa\OpenInsa.Dac\obj\Debug\OpenInsa.Dac.csprojResolveAssemblyReference.cache
+D:\Workspace_VS\OpenInsa\OpenInsa.Dac\obj\Debug\OpenInsa.Dac.dll
+D:\Workspace_VS\OpenInsa\OpenInsa.Dac\obj\Debug\OpenInsa.Dac.pdb

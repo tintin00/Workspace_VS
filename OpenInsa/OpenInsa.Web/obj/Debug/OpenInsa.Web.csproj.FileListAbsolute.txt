@@ -1,0 +1,7 @@
+D:\Workspace_VS\OpenInsa\OpenInsa.Web\bin\OpenInsa.Web.dll
+D:\Workspace_VS\OpenInsa\OpenInsa.Web\bin\OpenInsa.Web.pdb
+D:\Workspace_VS\OpenInsa\OpenInsa.Web\bin\OpenInsa.Biz.dll
+D:\Workspace_VS\OpenInsa\OpenInsa.Web\bin\OpenInsa.Biz.pdb
+D:\Workspace_VS\OpenInsa\OpenInsa.Web\obj\Debug\OpenInsa.Web.csprojResolveAssemblyReference.cache
+D:\Workspace_VS\OpenInsa\OpenInsa.Web\obj\Debug\OpenInsa.Web.dll
+D:\Workspace_VS\OpenInsa\OpenInsa.Web\obj\Debug\OpenInsa.Web.pdb
