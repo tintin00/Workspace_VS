@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<sqlMap namespace="" xmlns="http://ibatis.apache.org/mapping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+
+  <!--<alias>
+    <typeAlias alias="Profile" type="EntLib.iBatis.Profile" />
+  </alias>-->
+
+  <!--// 쿼리 결과를 반환할 엔티티 객체의 별칭을 선언한다.-->
+  <alias>
+    <typeAlias alias="Profile" type="EntLib.iBatis.Profile" />
+  </alias>
+
+  <!--// 필요할 경우 엔티티 객체의 각 프로퍼티와 테이블의 컬럼을 맵핑한다.-->
+  <resultMaps>
+    <resultMap id="profileResultMap" class="Profile">
+      <result column="seq" property="seq"/>
+      <result column="MEMBER_NAME" property="MEMBER_NAME"/>
+      <result column="MEMBER_PWD" property="MEMBER_PWD"/>
+      <result column="EMAIL" property="EMAIL"/>
+    </resultMap>
+  </resultMaps>
+
+  <!--// 필요할 경우 쿼리의 파라미터로 사용될 객체와 테이블의 컬럼명을 맵핑한다.-->
+  <parameterMaps>
+    <parameterMap id="profileParameterMap" class="Profile">
+      <!--<parameter column="seq" property="seq"/>-->
+      <parameter column="MEMBER_NAME" property="MEMBER_NAME"/>
+      <parameter column="MEMBER_PWD" property="MEMBER_PWD"/>
+      <!--<parameter column="EMAIL" property="EMAIL"/>-->
+    </parameterMap>
+  </parameterMaps>
+
+  <!--// <statements> 엘리먼트 내부에 쿼리문을 기재한다.-->
+  <statements>
+    <select id="SelectCheckLogin" parameterClass="Profile" resultClass="Profile" >
+      SELECT seq FROM Profile WHERE MEMBER_NAME = #MEMBER_NAME# AND MEMBER_PWD = #MEMBER_PWD#
+    </select>
+    <select id="SelectProfile" parameterClass="Profile" resultClass="Profile" >
+      select seq, MEMBER_NAME, MEMBER_PWD, EMAIL from Profile where (MEMBER_NAME = #MEMBER_NAME#)
+    </select>
+
+    <!--<select id="SelectProfile" parameterMap="profileParameterMap" resultClass="Profile" >
+      select seq, MEMBER_NAME, MEMBER_PWD, EMAIL from Profile where (MEMBER_NAME = #MEMBER_NAME#)
+    </select>-->
+  </statements>
+
+</sqlMap>
