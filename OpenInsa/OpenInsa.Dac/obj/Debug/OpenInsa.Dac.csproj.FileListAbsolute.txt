@@ -14,3 +14,7 @@ D:\Workspace_VS\OpenInsa\OpenInsa.Dac\bin\Debug\Microsoft.Practices.Unity.Interc
 D:\Workspace_VS\OpenInsa\OpenInsa.Dac\obj\Debug\OpenInsa.Dac.csprojResolveAssemblyReference.cache
 D:\Workspace_VS\OpenInsa\OpenInsa.Dac\obj\Debug\OpenInsa.Dac.dll
 D:\Workspace_VS\OpenInsa\OpenInsa.Dac\obj\Debug\OpenInsa.Dac.pdb
+D:\git_repo\Workspace_VS\OpenInsa\OpenInsa.Dac\bin\Debug\OpenInsa.Dac.dll
+D:\git_repo\Workspace_VS\OpenInsa\OpenInsa.Dac\bin\Debug\OpenInsa.Dac.pdb
+D:\git_repo\Workspace_VS\OpenInsa\OpenInsa.Dac\obj\Debug\OpenInsa.Dac.dll
+D:\git_repo\Workspace_VS\OpenInsa\OpenInsa.Dac\obj\Debug\OpenInsa.Dac.pdb
